@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "tag:#math",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.06133251404494,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.409321581196581,
+  "repelStrength": 9.88588483146067,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.5010644063224433,
+  "close": true
+}

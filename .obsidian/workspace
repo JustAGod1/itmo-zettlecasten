@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "b5d3a1d7166e0101",
+    "type": "split",
+    "children": [
+      {
+        "id": "ceda5a362d63cc7c",
+        "type": "leaf",
+        "dimension": 50.128205128205124,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        },
+        "group": "460414b22aab5828"
+      },
+      {
+        "id": "97971f53bef6d60b",
+        "type": "leaf",
+        "dimension": 49.871794871794876,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
+        },
+        "group": "460414b22aab5828"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89bb6c0d4e047e48",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ca476b3bd826153",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ed27bdf95d783e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a0083e8a32015af2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5857cb8dd7d9188d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b7c6a609458a4fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0133271503dcefc4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ceda5a362d63cc7c",
+  "lastOpenFiles": [
+    "README.md",
+    "Предел.md",
+    "Критерий равентства нулю определителя..md",
+    "Система уравнений как матрица.md",
+    "Плоскость в пространстве.md",
+    "Аналитическая геометрия в пространстве.md",
+    "Арифметический вектор.md",
+    "Векторное произведение.md",
+    "Декартово произведение.md",
+    "Проекция вектора на другой вектор.md"
+  ]
+}
