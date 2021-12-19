@@ -4,30 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "ceda5a362d63cc7c",
-        "type": "leaf",
-        "dimension": 50.128205128205124,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Формула Тейлора.md",
-            "mode": "source"
+        "id": "fcc20c894ff0864e",
+        "type": "split",
+        "children": [
+          {
+            "id": "609de4fbd610e46d",
+            "type": "split",
+            "dimension": 71.81663837011885,
+            "children": [
+              {
+                "id": "45530622c3da5ee2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Достаточное условие гладкого экстремума.md",
+                    "mode": "source"
+                  }
+                },
+                "group": "219da0477ac3af9a"
+              },
+              {
+                "id": "774fd93b37dc3742",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Достаточное условие гладкого экстремума.md",
+                    "mode": "preview"
+                  }
+                },
+                "group": "219da0477ac3af9a"
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "6688132569016048",
+            "type": "leaf",
+            "dimension": 28.183361629881155,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Достаточное условие гладкого экстремума.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            },
+            "group": "219da0477ac3af9a"
           }
-        },
-        "group": "460414b22aab5828"
-      },
-      {
-        "id": "97971f53bef6d60b",
-        "type": "leaf",
-        "dimension": 49.871794871794876,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Формула Тейлора.md",
-            "mode": "preview"
-          }
-        },
-        "group": "460414b22aab5828"
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -54,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "град",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +95,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Формула Тейлора.md",
+                "file": "Достаточное условие гладкого экстремума.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +134,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ceda5a362d63cc7c",
+  "active": "45530622c3da5ee2",
   "lastOpenFiles": [
-    "Формула Тейлора.md",
-    "Дифференцильная теорема Ла Гранжа.md",
-    "Исследование на экстремум.md",
+    "Достаточное условие гладкого экстремума.md",
+    "Экстремум функции от двух переменных.md",
+    "Таблица эквивалентности.md",
+    "Ассимптота.md",
+    "Общая схема исследования функции.md",
+    "Экстремум.md",
     "Достаточное условие экстремума.md",
-    "Свойство возрастания функции.md",
+    "Исследование на экстремум.md",
     "Исследование функции.md",
-    "Примеры разложения по Тейлору.md",
-    "Лемма Ферма.md",
-    "Остаточный член в форме Лагранжа.md",
-    "Ряд Маклорена.md"
+    "Условный экстремум.md"
   ]
 }
