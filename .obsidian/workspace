@@ -18,8 +18,9 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Достаточное условие гладкого экстремума.md",
-                    "mode": "source"
+                    "file": "Формула Тейлора.md",
+                    "mode": "source",
+                    "source": false
                   }
                 },
                 "group": "219da0477ac3af9a"
@@ -30,8 +31,9 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Достаточное условие гладкого экстремума.md",
-                    "mode": "preview"
+                    "file": "Формула Тейлора.md",
+                    "mode": "preview",
+                    "source": false
                   }
                 },
                 "group": "219da0477ac3af9a"
@@ -46,7 +48,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Достаточное условие гладкого экстремума.md",
+                "file": "Формула Тейлора.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "град",
+                "query": "приведе",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Достаточное условие гладкого экстремума.md",
+                "file": "Формула Тейлора.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "45530622c3da5ee2",
+  "active": "774fd93b37dc3742",
   "lastOpenFiles": [
+    "Формула Тейлора.md",
+    "Производная по направлению. Градиент..md",
+    "Дифференцируемость функции.md",
+    "Непрервность функции.md",
+    "Таблица эквивалентности.md",
     "Достаточное условие гладкого экстремума.md",
     "Экстремум функции от двух переменных.md",
-    "Таблица эквивалентности.md",
     "Ассимптота.md",
     "Общая схема исследования функции.md",
-    "Экстремум.md",
-    "Достаточное условие экстремума.md",
-    "Исследование на экстремум.md",
-    "Исследование функции.md",
-    "Условный экстремум.md"
+    "Экстремум.md"
   ]
 }
