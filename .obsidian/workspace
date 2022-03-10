@@ -8,47 +8,27 @@
         "type": "split",
         "children": [
           {
-            "id": "609de4fbd610e46d",
-            "type": "split",
-            "dimension": 71.81663837011885,
-            "children": [
-              {
-                "id": "45530622c3da5ee2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Формула Тейлора.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                },
-                "group": "219da0477ac3af9a"
-              },
-              {
-                "id": "774fd93b37dc3742",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Формула Тейлора.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                },
-                "group": "219da0477ac3af9a"
+            "id": "45530622c3da5ee2",
+            "type": "leaf",
+            "dimension": 66.723259762309,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Внешнее произведение.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "direction": "vertical"
+            },
+            "group": "219da0477ac3af9a"
           },
           {
             "id": "6688132569016048",
             "type": "leaf",
-            "dimension": 28.183361629881155,
+            "dimension": 33.276740237691,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Формула Тейлора.md",
+                "file": "Внешнее произведение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "приведе",
+                "query": "истор",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,8 +77,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -118,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Формула Тейлора.md",
+                "file": "Внешнее произведение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,17 +115,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "774fd93b37dc3742",
+  "active": "45530622c3da5ee2",
   "lastOpenFiles": [
-    "Формула Тейлора.md",
-    "Производная по направлению. Градиент..md",
-    "Дифференцируемость функции.md",
-    "Непрервность функции.md",
-    "Таблица эквивалентности.md",
-    "Достаточное условие гладкого экстремума.md",
-    "Экстремум функции от двух переменных.md",
-    "Ассимптота.md",
-    "Общая схема исследования функции.md",
-    "Экстремум.md"
+    "Внешнее произведение.md",
+    "Совместная система.md",
+    "Теорема Кронкера-Капелли.md",
+    "Симметрирование.md",
+    "Теорема лапласа.md",
+    "Предел.md",
+    "Свойства произведения ПЛФ.md",
+    "Неявное ДО.md",
+    "Альтернирование.md",
+    "Антисимметричность тензоров.md"
   ]
 }
